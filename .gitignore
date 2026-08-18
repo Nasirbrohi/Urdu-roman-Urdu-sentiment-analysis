@@ -1,0 +1,14 @@
+# BERT model files
+models/urdu_bert/
+models/roman_urdu_bert/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

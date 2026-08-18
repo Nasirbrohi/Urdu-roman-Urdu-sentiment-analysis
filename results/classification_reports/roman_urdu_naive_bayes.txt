@@ -1,0 +1,18 @@
+
+ROMAN URDU - NAIVE BAYES
+
+Accuracy  : 0.7907079646
+Precision : 0.7905694740
+Recall    : 0.7907079646
+F1 Score  : 0.7905938247
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+negative       0.78       0.77       0.77       1057
+positive       0.80       0.81       0.80       1203
+
+accuracy                            0.79       2260
+macro avg       0.79       0.79       0.79       2260
+weighted avg    0.79       0.79       0.79       2260

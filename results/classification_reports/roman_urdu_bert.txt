@@ -1,0 +1,22 @@
+
+ROMAN URDU - BERT
+
+Accuracy  : 0.7876
+Precision : 0.7896
+Recall    : 0.7876
+F1 Score  : 0.7878
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+negative       0.76       0.81       0.78        529
+positive       0.82       0.77       0.79        601
+
+accuracy                            0.79       1130
+macro avg       0.79       0.79       0.79       1130
+weighted avg    0.79       0.79       0.79       1130
+
+Confusion Matrix:
+[[427 102]
+ [138 463]]

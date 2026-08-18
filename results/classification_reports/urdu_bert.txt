@@ -1,0 +1,22 @@
+
+URDU - BERT
+
+Accuracy  : 0.8606
+Precision : 0.8605
+Recall    : 0.8606
+F1 Score  : 0.8600
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+negative       0.86       0.90       0.88        403
+positive       0.86       0.81       0.83        307
+
+accuracy                            0.86        710
+macro avg       0.86       0.85       0.86        710
+weighted avg    0.86       0.86       0.86        710
+
+Confusion Matrix:
+[[362  41]
+ [ 58 249]]

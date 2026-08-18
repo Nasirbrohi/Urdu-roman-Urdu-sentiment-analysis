@@ -1,0 +1,18 @@
+
+URDU - LINEAR SVC
+
+Accuracy  : 0.8759689922
+Precision : 0.8769183887
+Recall    : 0.8759689922
+F1 Score  : 0.8751290127
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+negative       0.87       0.92       0.89        805
+positive       0.89       0.81       0.85        614
+
+accuracy                            0.88       1419
+macro avg       0.88       0.87       0.87       1419
+weighted avg    0.88       0.88       0.88       1419

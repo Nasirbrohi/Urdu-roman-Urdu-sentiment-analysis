@@ -1,0 +1,18 @@
+
+ROMAN URDU - LINEAR SVC
+
+Accuracy  : 0.7867256637
+Precision : 0.7877622699
+Recall    : 0.7867256637
+F1 Score  : 0.7869181194
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+negative       0.76       0.79       0.78       1057
+positive       0.81       0.78       0.80       1203
+
+accuracy                            0.79       2260
+macro avg       0.79       0.79       0.79       2260
+weighted avg    0.79       0.79       0.79       2260

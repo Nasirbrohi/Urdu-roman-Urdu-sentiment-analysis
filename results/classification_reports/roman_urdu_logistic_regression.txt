@@ -1,0 +1,22 @@
+
+ROMAN URDU - LOGISTIC REGRESSION
+
+Accuracy  : 0.7809734513
+Precision : 0.7812114133
+Recall    : 0.7809734513
+F1 Score  : 0.7810579995
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+negative       0.76       0.77       0.77       1057
+positive       0.80       0.79       0.79       1203
+
+accuracy                            0.78       2260
+macro avg       0.78       0.78       0.78       2260
+weighted avg    0.78       0.78       0.78       2260
+
+Confusion Matrix:
+[[817 240]
+ [255 948]]
